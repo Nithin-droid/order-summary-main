@@ -43,7 +43,7 @@ body {
   border-radius: 25px;
 }
 
-.image img {
+.image {
   width: 100%;
   border-top-left-radius: 25px;
   border-top-right-radius: 25px;
